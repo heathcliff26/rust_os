@@ -16,7 +16,7 @@ I use [blog_os](https://os.phil-opp.com/) as my guide for this project
 
 # Current State
 
-Next up is [CPU Exceptions](https://os.phil-opp.com/cpu-exceptions/)
+Next up is [Double Faults](https://os.phil-opp.com/double-fault-exceptions/)
 
 # Completed Chapters
 
@@ -36,4 +36,4 @@ Next up is [CPU Exceptions](https://os.phil-opp.com/cpu-exceptions/)
 # Potential Follow Ups
 
 - Learn how to build a bootloader
-- Move test to top row instead of bottom row
+- Move text to top row instead of bottom row

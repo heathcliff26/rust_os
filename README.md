@@ -16,7 +16,7 @@ I use [blog_os](https://os.phil-opp.com/) as my guide for this project
 
 # Current State
 
-Next up is [Double Faults](https://os.phil-opp.com/double-fault-exceptions/)
+Next up is [Hardware Interrupts](https://os.phil-opp.com/hardware-interrupts/)
 
 # Completed Chapters
 

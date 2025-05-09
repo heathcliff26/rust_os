@@ -8,6 +8,8 @@ This is a learning project. Basically I wanted to learn how to create my own OS 
 - [Completed Chapters](#completed-chapters)
   - [Bare Bones](#bare-bones)
   - [Interrupts](#interrupts)
+  - [Memory Management](#memory-management)
+  - [Multitasking](#multitasking)
 - [Potential Follow Ups](#potential-follow-ups)
 
 # Links
@@ -33,7 +35,20 @@ Next up is [Hardware Interrupts](https://os.phil-opp.com/hardware-interrupts/)
 2. [Double Faults](https://os.phil-opp.com/double-fault-exceptions/)
 3. [Hardware Interrupts](https://os.phil-opp.com/hardware-interrupts/)
 
+## Memory Management
+
+1. [Introduction to Paging](https://os.phil-opp.com/paging-introduction/)
+2. [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
+3. [Heap Allocation](https://os.phil-opp.com/heap-allocation/)
+4. [Allocator Designs](https://os.phil-opp.com/allocator-designs/)
+
+## Multitasking
+
+1. [Async/Await](https://os.phil-opp.com/async-await/)
+
 # Potential Follow Ups
 
 - Learn how to build a bootloader
 - Move text to top row instead of bottom row
+- Try to update dependencies and fix errors caused by that
+- German keyboard layout

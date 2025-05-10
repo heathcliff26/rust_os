@@ -18,7 +18,7 @@ I use [blog_os](https://os.phil-opp.com/) as my guide for this project
 
 # Current State
 
-Next up is [Hardware Interrupts](https://os.phil-opp.com/hardware-interrupts/)
+Next up is [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
 
 # Completed Chapters
 

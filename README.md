@@ -18,7 +18,7 @@ I use [blog_os](https://os.phil-opp.com/) as my guide for this project
 
 # Current State
 
-Next up is [Allocator Designs](https://os.phil-opp.com/allocator-designs/)
+Next up is [Async/Await](https://os.phil-opp.com/async-await/)
 
 # Completed Chapters
 
@@ -52,3 +52,4 @@ Next up is [Allocator Designs](https://os.phil-opp.com/allocator-designs/)
 - Move text to top row instead of bottom row
 - Try to update dependencies and fix errors caused by that
 - German keyboard layout
+- Improve linked list allocator by adding merging of freed regions + tests

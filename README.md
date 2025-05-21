@@ -18,7 +18,7 @@ I use [blog_os](https://os.phil-opp.com/) as my guide for this project
 
 # Current State
 
-Next up is [Async/Await](https://os.phil-opp.com/async-await/)
+Done
 
 # Completed Chapters
 
